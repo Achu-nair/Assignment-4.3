@@ -38,4 +38,4 @@ Get states names with ‘W’.
              las = 1,
              breaks = 5)
 
- <img src = "" width = 500>
+ <img src = "Hist.PNG" width = 500>
