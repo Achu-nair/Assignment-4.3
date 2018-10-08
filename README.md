@@ -21,7 +21,7 @@ Get states names with ‘W’.
     W <- grep("W",States,value = TRUE)
     W
     
-    <img src = "assignment 4.3.PNG" width = 500>
+   <img src = "assignment 4.3.PNG" width = 500>
     
 2. Prepare a Histogram of the number of characters in each US state.
 
@@ -37,3 +37,5 @@ Get states names with ‘W’.
              xlim = c(4,15),
              las = 1,
              breaks = 5)
+
+ <img src = "" width = 500>
